@@ -1,9 +1,5 @@
 //
-//  DataPersistenceManager.swift
-//  Netflix Clone
-//
-//  Created by Amr Hossam on 20/01/2022.
-//
+
 
 import Foundation
 import UIKit
